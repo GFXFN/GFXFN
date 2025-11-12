@@ -47,7 +47,6 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 ---
 
 ## 🚀 Projetos selecionados (exemplos)
-> Vou preencher com os seus projetos quando você enviar os nomes + 1-linha de descrição + link.
 
 - **Projeto Jolan — API de Autenticação**  
   Node/Express, JWT, testes unitários, deploy com Docker + CI.
@@ -56,26 +55,24 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 - **Projeto igon — Website Pessoal (em construção)**  
   Portfolio estático / SPA para apresentar projetos e contato.
 
-> Quer que eu já adicione os repositórios "pinned" automaticamente? Mande os links e eu insiro.
-
 ---
 
 ## 📫 Contato
 - ✉️ Email: `IsaacGFX12@gmail.com`  
-- 🔗 LinkedIn: `SEU_LINKEDIN` *(adicione quando tiver)*  
-- 🌐 Portfolio: `SEU_PORTFOLIO_URL` *(em breve)*
+- 🔗 LinkedIn: `Desenvolvimento`  
+- 🌐 Portfolio: `Desenvolvimneto` *(em breve)*
 
 ---
 
-## 📈 GitHub Stats & Widgets (adicione abaixo no README para visualizações dinâmicas)
-> **Substitua `SEU_USERNAME` pelo seu GitHub username.**
+## 📈 GitHub Stats & Widgets
 
 ```md
+
 <!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfxfn&layout=compact)
 
 <!-- Profile stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gfxfnE&show_icons=true&count_private=true)
 
 <!-- Streak (opcional) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gfxfn)
