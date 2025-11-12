@@ -1,4 +1,4 @@
-# 👋 Olá — Eu sou Isaac Nogueira
+# Bem-vindo Meu Nome é Isaac Nogueira
 > 🔧 Desenvolvedor Backend / Full-Stack | 20 anos  
 > Construo APIs e infra escalável com atenção a performance, testes e boas práticas.
 
@@ -65,8 +65,6 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 ---
 
 ## 📈 GitHub Stats & Widgets
-
-```md
 
 <!-- GitHub Stats -->
 <div align="center">
