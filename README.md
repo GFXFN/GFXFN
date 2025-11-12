@@ -59,7 +59,7 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 
 ## 📫 Contato
 - ✉️ Email: `IsaacGFX12@gmail.com`  
-- 🔗 LinkedIn: `Desenvolvimento`  
+- 🔗 LinkedIn: `(https://www.linkedin.com/in/isaac-nogueira-513a7532b)`  
 - 🌐 Portfolio: `Desenvolvimneto` *(em breve)*
 
 ---
