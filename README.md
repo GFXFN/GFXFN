@@ -68,11 +68,11 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 
 ```md
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfxfn&layout=compact)
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/IsaacNogueira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacNogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacNogueira&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
 
-<!-- Profile stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gfxfnE&show_icons=true&count_private=true)
-
-<!-- Streak (opcional) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gfxfn)
