@@ -51,7 +51,7 @@ Atualmente desenvolvendo meu site/portfólio (em breve o link). Aberto a vagas b
 - **Projeto Ymir — Serviço de Agregação (Java)**  
   Microserviço em Java + Spring Boot, Postgres, filas para processamento assíncrono.
 - **Projeto igon — Website Pessoal (em construção)**  
-  Portfolio estático / SPA para apresentar projetos e contato.
+  Portfolio estático
 
 ---
 
