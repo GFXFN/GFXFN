@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Isaac Gabriel Nogueira - Backend e Full-Stack Developer</title>
+  <desc id="desc">Banner em tema escuro com detalhes azuis e verdes, representando software, APIs e integração de sistemas.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="0.55" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <g opacity="0.28" stroke="#38bdf8" fill="none"><path d="M0 58h170l34 34h160"/><path d="M1200 75h-155l-42 42H862"/><path d="M0 267h210l30-30h108"/><path d="M1200 252h-210l-34-34h-94"/><circle cx="366" cy="92" r="5" fill="#38bdf8"/><circle cx="858" cy="117" r="5" fill="#22c55e"/><circle cx="350" cy="237" r="5" fill="#22c55e"/><circle cx="858" cy="218" r="5" fill="#38bdf8"/></g>
+  <rect x="74" y="63" width="8" height="194" rx="4" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="116" y="130" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">Isaac Gabriel Nogueira</text>
+  <text x="118" y="181" fill="#38bdf8" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600">Backend &amp; Full-Stack Developer</text>
+  <text x="118" y="226" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="21">APIs  •  Arquitetura  •  Dados  •  Integrações  •  Web</text>
+  <g transform="translate(998 160)" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#glow)"><path d="M-68-48l-48 48 48 48"/><path d="M68-48l48 48-48 48"/><path d="M28-78l-56 156"/></g>
+</svg>
