@@ -14,6 +14,7 @@ Sou **Isaac Gabriel Nogueira**, desenvolvedor de software com foco em **backend 
 
 - Desenvolvedor na **Eitree, Inc.** desde julho de 2023, em trabalho remoto.
 - Experiência com desenvolvimento web e backend, React, Python e sistemas para organização não governamental.
+- Tenho **20 anos** e mantenho aprendizado contínuo por meio da graduação e de projetos reais.
 - Graduando em **Engenharia de Software** e interessado em arquitetura de software, automação e infraestrutura.
 - Baseado em **Aparecida do Norte, Vale do Paraíba, São Paulo, Brasil**.
 
